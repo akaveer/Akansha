@@ -1,0 +1,59 @@
+Assignment1 (doubleClick)
+http://only-testing-blog.blogspot.in/2014/09/selectable.html
+- "Double click me to see alert" - double click
+- alert ok button click 
+
+Assignment2 (In WebDriver - moveToElement)
+- Anna assignment
+1. goto http://annauniv.edu/
+2. click on "Departments" link
+3. Goto "Faculty Of Civil Engineering" and click on "Institute for Ocean Management"
+4. Verify the page title.
+5. Goto "Research Themes" options and Click "Coastal Pollution Monitoring and Hazards"
+6. Verify the page title.
+
+Assignment3:
+- In triphobo.com implement the drag and drop automation
+- Click "Later" in be updated box
+- Houston in Texas
+- Click on button "Plan New Trip"
+- Click on "Save and Let me Plan" at the bottom of the screen
+- Click on "Skip to Plan" at the right hand top
+- Click on "Skip to Plan" again on the box
+- Click on "Add Activity"
+- Click on the Plus(+) sign when you hover mouse 
+  at the center of image of any attactions
+- Select "Day 2" 
+- Click on x for closing date screen
+- Click on X for closing activity screen
+- Drag the activity from day2 to day 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
